@@ -1,6 +1,6 @@
 # Skyrim Character Creator
 
-This is a simple web app using React and Expo for people to start making  Skyrim characters for their playthroughs that they want to play as. Eventually it will be its own website but this is still currently WIP
+This is a simple web app using React and Expo for people to start making  Skyrim characters for their playthroughs that they want to play as. Currently early WIP
 
 ## Features
 
