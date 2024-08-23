@@ -1,0 +1,84 @@
+{
+    "races" : [
+        {
+            "id": 1,
+            "name": "Argonian",
+            "abilities": "Resist Disease, Waterbreathing, Histskin, Claws",
+            "skillBonuses" : "Lockpicking, Light Armor, Alteration, Pickpocket, Restoration, Sneak",
+            "spells": "Flames, Healing",
+            "description" : "This reptilian race, well-suited for the treacherous swamps of their Black Marsh homeland, has developed a natural resistance to diseases and the ability to breathe underwater. They can call upon the Histskin to regenerate health very quickly."
+        },
+        {
+            "id": 2,
+            "name": "Khajit",
+            "abilities": "Night Eye, Claws",
+            "skillBonuses" : "Alchemy, Archery, Lockpicking, One-Handed, Pickpocket, Sneak",
+            "spells": "Flames, Healing",
+            "description" : "Hailing from the province of Elsweyr, they are intelligent, quick, and agile. They make excellent thieves due to their natural stealthiness. All Khajiit can see in the dark at will and have unarmed claw attacks."
+        },
+        {
+            "id": 3,
+            "name": "Redguard",
+            "abilities": "Adrenaline Rush, Resist Poison",
+            "skillBonuses" : "One-Handed, Alteration, Archery, Block, Destruction, Smithing",
+            "spells": "Flames, Healing",
+            "description" : "This reptilian race, well-suited for the treacherous swamps of their Black Marsh homeland, has developed a natural resistance to diseases and the ability to breathe underwater. They can call upon the Histskin to regenerate health very quickly."
+        },
+        {
+            "id": 4,
+            "name": "Breton",
+            "abilities": "Resist Magic, Dragonskin",
+            "skillBonuses" : "Lockpicking, Light Armor, Pickpocket, Sneak, Alteration, Restoration",
+            "spells": "Flames, Healing",
+            "description" : "This reptilian race, well-suited for the treacherous swamps of their Black Marsh homeland, has developed a natural resistance to diseases and the ability to breathe underwater. They can call upon the Histskin to regenerate health very quickly."
+        },
+        {
+            "id": 1,
+            "name": "Argonian",
+            "abilities": "Resist Disease, Waterbreathing, Histskin",
+            "skillBonuses" : "Lockpicking, Light Armor, Pickpocket, Sneak, Alteration, Restoration",
+            "spells": "Flames, Healing",
+            "description" : "This reptilian race, well-suited for the treacherous swamps of their Black Marsh homeland, has developed a natural resistance to diseases and the ability to breathe underwater. They can call upon the Histskin to regenerate health very quickly."
+        },
+        {
+            "id": 1,
+            "name": "Argonian",
+            "abilities": "Resist Disease, Waterbreathing, Histskin",
+            "skillBonuses" : "Lockpicking, Light Armor, Pickpocket, Sneak, Alteration, Restoration",
+            "spells": "Flames, Healing",
+            "description" : "This reptilian race, well-suited for the treacherous swamps of their Black Marsh homeland, has developed a natural resistance to diseases and the ability to breathe underwater. They can call upon the Histskin to regenerate health very quickly."
+        },
+        {
+            "id": 1,
+            "name": "Argonian",
+            "abilities": "Resist Disease, Waterbreathing, Histskin",
+            "skillBonuses" : "Lockpicking, Light Armor, Pickpocket, Sneak, Alteration, Restoration",
+            "spells": "Flames, Healing",
+            "description" : "This reptilian race, well-suited for the treacherous swamps of their Black Marsh homeland, has developed a natural resistance to diseases and the ability to breathe underwater. They can call upon the Histskin to regenerate health very quickly."
+        },
+        {
+            "id": 1,
+            "name": "Argonian",
+            "abilities": "Resist Disease, Waterbreathing, Histskin",
+            "skillBonuses" : "Lockpicking, Light Armor, Pickpocket, Sneak, Alteration, Restoration",
+            "spells": "Flames, Healing",
+            "description" : "This reptilian race, well-suited for the treacherous swamps of their Black Marsh homeland, has developed a natural resistance to diseases and the ability to breathe underwater. They can call upon the Histskin to regenerate health very quickly."
+        },
+        {
+            "id": 1,
+            "name": "Argonian",
+            "abilities": "Resist Disease, Waterbreathing, Histskin",
+            "skillBonuses" : "Lockpicking, Light Armor, Pickpocket, Sneak, Alteration, Restoration",
+            "spells": "Flames, Healing",
+            "description" : "This reptilian race, well-suited for the treacherous swamps of their Black Marsh homeland, has developed a natural resistance to diseases and the ability to breathe underwater. They can call upon the Histskin to regenerate health very quickly."
+        },
+        {
+            "id": 1,
+            "name": "Argonian",
+            "abilities": "Resist Disease, Waterbreathing, Histskin",
+            "skillBonuses" : "Lockpicking, Light Armor, Pickpocket, Sneak, Alteration, Restoration",
+            "spells": "Flames, Healing",
+            "description" : "This reptilian race, well-suited for the treacherous swamps of their Black Marsh homeland, has developed a natural resistance to diseases and the ability to breathe underwater. They can call upon the Histskin to regenerate health very quickly."
+        }
+    ]
+}
